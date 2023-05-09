@@ -1,0 +1,12 @@
+data/obj_train_data/Screenshot 2023-05-08 at 10.21.08.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.21.10.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.21.11 1.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.21.11.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.21.29.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.21.34.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.21.40.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.23.33.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.23.39.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.23.55.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.24.00.png
+data/obj_train_data/Screenshot 2023-05-08 at 10.24.11.png
