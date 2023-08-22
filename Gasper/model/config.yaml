@@ -1,0 +1,7 @@
+path: /home/gasper/Documents/School/Projekt_Detekcija_Znakov/data # dataset root dir
+train: train/images # relative to path
+val: train/images # relative to path
+
+# classes
+names:
+    0: sign
