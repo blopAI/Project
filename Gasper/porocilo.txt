@@ -1,0 +1,29 @@
+Seznam posnetkov:
+	vid_record_2023_5_5_1.mp4
+	vid_record_2023_5_5_2.mp4
+	vid_record_2023_5_6_1.mp4
+	vid_record_2023_5_6_2.mp4
+	vid_record_2023_5_6_3.mp4
+	vid_record_2023_5_6_4.mp4
+	vid_record_2023_5_6_5.mp4
+	vid_record_2023_5_6_6.mp4
+	vid_record_2023_5_6_7.mp4
+Seznam ujemajocih Oznacb:
+	info_2023_5_5_1.txt
+	info_2023_5_5_2.txt
+	info_2023_5_6_1.txt
+	info_2023_5_6_2.txt
+	info_2023_5_6_3.txt
+	info_2023_5_6_4.txt
+	info_2023_5_6_5.txt
+	info_2023_5_6_6.txt
+	info_2023_5_6_7.txt
+	labels_2023_5_5;6.json (pametno razdeliti)
+Datum zajema:
+	2 posnetka zajeta 5. maja 2023, ostalih 7 pa 6. maja 2023
+Vsebina zajema:
+	Vsak posnetek vsebuje parkiranje na parkirisce oznaceno z enim izmed naslednjih znakov: 
+		Za druzine z otroci
+		Za invalide
+		Za elektricna vozila
+	Posnetki so zajeti na razlicnih parkiriscih v Mariboru in Slovenj Gradcu.

@@ -1,0 +1,5 @@
+datum
+lokacija snemanja
+vreme
+znak v posnetku
+posebnosti
