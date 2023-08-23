@@ -14,6 +14,9 @@ $ source .venv/bin/activate
 ## Setting up Redis:
 To launch a Redis database container:
 ```bash
+run sudo docker-compose up -d
+```
+```bash
 $ sudo docker run -d --rm --name redis -p 6379:6379 redis:7.0
 ```
 Check the container status:
@@ -24,3 +27,5 @@ Stop the container:
 ```bash
 $ sudo docker container stop redis
 ```
+For more information and features:
+[Our documentation](https://github.com/blopAI/Project/wiki/Vzpostavitev-Redisa)
