@@ -12,18 +12,18 @@ $ python3 -m venv .venv
 $ source .venv/bin/activate
 ```
 ## Setting up Redis:
-To launch a Redis database container:
+### To launch a Redis database container:
 ```bash
 run sudo docker-compose up -d
 ```
 ```bash
 $ sudo docker run -d --rm --name redis -p 6379:6379 redis:7.0
 ```
-Check the container status:
+### Check the container status:
 ```bash
 $ sudo docker container list
 ```
-Stop the container:
+### Stop the container:
 ```bash
 $ sudo docker container stop redis
 ```
